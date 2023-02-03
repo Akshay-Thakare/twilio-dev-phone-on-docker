@@ -16,6 +16,10 @@ docker run --rm -it \
 twilio_dev_phone
 ```
 
+## 3. Navigate to site
+
+Open http://localhost:3001 in your browser
+
 ## References
 
 [1] https://www.twilio.com/docs/labs/dev-phone
